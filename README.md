@@ -2,8 +2,6 @@
 Exploratory Data Analysis of the Titanic Survival Dataset using Python, Pandas, Seaborn, and Matplotlib.
 # 🚢 Titanic Survival Dataset - Exploratory Data Analysis (EDA)
 
-![Titanic](https://upload.wikimedia.org/wikipedia/commons/f/fd/RMS_Titanic_3.jpg)
-
 ## 📘 Overview
 
 This repository contains an Exploratory Data Analysis (EDA) of the famous **Titanic Survival Dataset** from Kaggle. The objective is to extract insights using statistical and visual techniques to understand which factors influenced passenger survival.
